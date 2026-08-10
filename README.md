@@ -29,5 +29,14 @@ It allows users to search and explore books using the Open Library API.
 ## API Used
 
 Open Library API
+## 📸 Screenshots
 
+### Home Screen
+![Home Screen](home.png)
+
+### Search Results
+![Search Results](search.png)
+
+### Book Details
+![Book Details](details.png)
 
