@@ -30,6 +30,4 @@ It allows users to search and explore books using the Open Library API.
 
 Open Library API
 
-## Screenshots
 
-Add your app screenshots here.
